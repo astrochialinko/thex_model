@@ -1,0 +1,10 @@
+notebooks/Special*
+output/*
+environments/
+dist/
+build/
+*.egg-info/
+**/.ipynb_checkpoints
+data_input/*
+*.pyc
+.DS_Store
