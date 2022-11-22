@@ -1,4 +1,8 @@
 # THEx Background
+
+
+[![DOI](https://zenodo.org/badge/559042038.svg)](https://zenodo.org/badge/latestdoi/559042038)
+
 Source code contributing to the research of the Transient Host Exchange (THEx) at the University of Arizona. We classify astronomical transients using host-galaxy photometric data, so that transients detected by the Large Synoptic Survey Telescope (LSST) may be immediately followed-up on after their initial discovery based on their classified type.
 
 
