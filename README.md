@@ -60,6 +60,9 @@ Data pulling, cleansing, normalizing, preparation, and plotting.
 
 
 # Acknowledgments
+
+Most of the codes are written by [Marina Kisley](https://github.com/marinakiseleva). The original GitHub repo is here: [thex_model](https://github.com/marinakiseleva/thex_model)
+
 This project uses a [fork](https://github.com/marinakiseleva/hmc) of [HMC](https://github.com/davidwarshaw/hmc), available by the BSD 3-Clause "New" or "Revised" License.  
 
-We also create another module for visualizing data distributions, here: [z_dist](https://github.com/marinakiseleva/z_dist)
+We also create another module for visualizing data distributions, here: [z_dist](https://github.com/astrochialinko/z_dist)
